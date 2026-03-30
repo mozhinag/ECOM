@@ -1,19 +1,19 @@
 # Root
-node_modules
+node_modules/
 .env
 
 # Backend
-backend/node_modules
+backend/node_modules/
 backend/.env
-backend/data
+backend/data/
 
 # Frontend
-frontend/node_modules
+frontend/node_modules/
 frontend/.env
-frontend/build
+frontend/build/
 frontend/src/products.js
 
 # Common
-dist
-build
+dist/
+build/
 products-and-images (1)
