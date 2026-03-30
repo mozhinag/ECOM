@@ -17,7 +17,7 @@ connectDB();
 const app = express();
 //Body parser middleware
 app.use(express.json());
-app.use(express.urlencoded());
+app.use(express.urlencoded({ extended: true }));
 
 //Cookie parser middleware
 app.use(cookieParser());
