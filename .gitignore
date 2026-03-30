@@ -10,10 +10,10 @@ backend/data/
 # Frontend
 frontend/node_modules/
 frontend/.env
-frontend/build/
+
 frontend/src/products.js
 
 # Common
-dist/
-build/
+
+
 products-and-images (1)
