@@ -41,10 +41,7 @@ const UserListScreen = () => {
               <th>ID</th>
               <th>NAME</th>
               <th>EMAIL</th>
-              <th>TOTAL</th>
               <th>ADMIN</th>
-              <th>PAID</th>
-              <th>DELIVERED</th>
               <th></th>
             </tr>
           </thead>
